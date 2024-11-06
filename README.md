@@ -1,2 +1,2 @@
 # Robo_Pi
-Autonomous Multi-functional Robot capable of path following, object detection, barcode reading, maze navigation &amp; obstacle avoidance, powered by Computer Vision, ROS2 and SLAM.
+A multi-functional, autonomous robot that follows path, tracks objects, navigates maze and avoids obstacles with Computer Vision, ROS2 and SLAM, for real-time navigation and decision making.
