@@ -1,1 +1,1 @@
-
+A robot with basic image processing capabilities for surveillance tasks, integrating a camera for computer vision based object tracking. It is designed for applications where remote monitoring and basic decision-making are required.
