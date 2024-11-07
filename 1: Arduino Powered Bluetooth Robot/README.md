@@ -1,1 +1,1 @@
-Introduction to Raspberry Pi
+The robot is designed integrating foundational concepts of electronics, Arduino, sensor interfacing and Bluetooth control. It uses sensors to detect and follow paths, execute manual override possible via Bluetooth from a smartphone and is also capable of detecting obstacles to navigate through a maze. 
