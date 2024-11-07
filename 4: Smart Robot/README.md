@@ -1,1 +1,1 @@
-
+An advanced robot integrated with ROS2 and Nav2 for autonomous navigation in dynamic environments. It can perform SLAM and autonomously navigate through pre-mapped areas while avoiding obstacles in real-time.
