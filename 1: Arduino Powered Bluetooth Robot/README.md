@@ -1,3 +1,5 @@
+<img src=”https://github.com/user-attachments/assets/276d8827-a789-4ed0-9298-f199bfdef1d6” alt=”Bot Image” width=”400″ height=”300″>
+
 A robot designed integrating foundational concepts of Electronics, Arduino, Sensor interfacing and Bluetooth control. It uses sensors to detect and follow paths, execute manual override possible via Bluetooth from a smartphone and is also capable of detecting obstacles to navigate through a maze. 
 
 
