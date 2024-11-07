@@ -4,4 +4,4 @@ A robot designed integrating foundational concepts of Electronics, Arduino, Sens
 2. **Bluetooth Control:** Switch between autonomous and manual control modes via a smartphone app.
 3. **Responsive Motor Control:** Smooth and precise motor movements for accurate path following.
 4. **Obstacle Detection:** Uses proximity sensors to avoid obstacles in the maze.
-5. **Maze Navigation:** Aut omatically detects paths and makes turns based on sensor feedback.
+5. **Maze Navigation:** Automatically detects paths and makes turns based on sensor feedback.
