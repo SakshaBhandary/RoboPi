@@ -1,4 +1,4 @@
-A robot designed integrating foundational concepts of electronics, Arduino, Sensor interfacing and Bluetooth control. It uses sensors to detect and follow paths, execute manual override possible via Bluetooth from a smartphone and is also capable of detecting obstacles to navigate through a maze. 
+A robot designed integrating foundational concepts of Electronics, Arduino, Sensor interfacing and Bluetooth control. It uses sensors to detect and follow paths, execute manual override possible via Bluetooth from a smartphone and is also capable of detecting obstacles to navigate through a maze. 
 
 1.  **Modular Components:** Easy-to-add sensors or actuators for extended functionalities.
 2. **Bluetooth Control:** Switch between autonomous and manual control modes via a smartphone app.
