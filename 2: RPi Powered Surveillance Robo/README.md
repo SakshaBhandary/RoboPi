@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/bc5e3e69-9802-47b2-bd1a-557c24e0c20f" alt="Alt Text" width="400" height="400">
+
 A robot with basic image processing capabilities for surveillance tasks, integrating a camera for computer vision based object tracking. It is designed for applications where remote monitoring and basic decision-making are required.
 
 **Robot Features :-**
