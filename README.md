@@ -21,4 +21,4 @@ Robotics is the exciting intersection of science, engineering, and technology th
 
 **Robotics Applications**
 
-<img src="https://github.com/user-attachments/assets/352e2825-8b9a-43d5-8f61-14f9aa5e5c42" alt="2" width="250" height="200"> <img src="https://github.com/user-attachments/assets/6d4f13c1-b2e8-4bfb-82a6-761c1bcbf798" alt="3" width="250" height="200"> <img src="https://github.com/user-attachments/assets/fa030a73-909f-4650-a827-8e0d4bef0e13" alt="4" width="250" height="200"> <img src="https://github.com/user-attachments/assets/66a36de1-af27-4dee-b53e-1410a51e29dc" alt="5" width="250" height="200">
+<img src="https://github.com/user-attachments/assets/352e2825-8b9a-43d5-8f61-14f9aa5e5c42" alt="2" width="250" height="200"> <img src="https://github.com/user-attachments/assets/fa030a73-909f-4650-a827-8e0d4bef0e13" alt="3" width="250" height="200"> <img src="https://github.com/user-attachments/assets/66a36de1-af27-4dee-b53e-1410a51e29dc" alt="4" width="250" height="200">
