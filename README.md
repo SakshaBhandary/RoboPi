@@ -4,7 +4,7 @@
 The Robot is a multi-functional and autonomous vehicle capable of following specified paths, recognizing and tracking objects, reading barcodes, navigating mazes, avoiding obstacles etc. It integrates sensors, computer vision, and SLAM for dynamic environment interaction and operates seamlessly with ROS2 for real-time data processing, navigation and decision-making. The Robot is built creating a progressive learning experience in robotics from emphasising integrated systems to preparing for advanced autonomous applications.
 
 
-<img src="https://github.com/user-attachments/assets/0706afc8-d6ec-4b99-bdb9-0384e0d91f5f" alt="U1_1" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/0706afc8-d6ec-4b99-bdb9-0384e0d91f5f" alt="1" width="300" height="300">
 
 Robotics is the exciting intersection of science, engineering, and technology that brings machines to life. Robotics creates robots that mimic human actions, but better and faster. They're used in factories and other places for efficiency. With AI, robots are getting smarter and more capable.
 
@@ -22,4 +22,5 @@ Robotics is the exciting intersection of science, engineering, and technology th
 
 **Robotics Applications**
 
-<img src="https://github.com/user-attachments/assets/352e2825-8b9a-43d5-8f61-14f9aa5e5c42" alt="U1_2" width="200" height="200"> <img src="https://github.com/user-attachments/assets/6d4f13c1-b2e8-4bfb-82a6-761c1bcbf798" alt="U1_2" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/352e2825-8b9a-43d5-8f61-14f9aa5e5c42" alt="2" width="200" height="200"> <img src="https://github.com/user-attachments/assets/6d4f13c1-b2e8-4bfb-82a6-761c1bcbf798" alt="3" width="200" height="200"> <img src="https://github.com/user-attachments/assets/fa030a73-909f-4650-a827-8e0d4bef0e13" alt="4" width="200" height="200">
+
