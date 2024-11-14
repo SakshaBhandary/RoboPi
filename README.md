@@ -4,7 +4,6 @@
 The Robot is a multi-functional and autonomous vehicle capable of following specified paths, recognizing and tracking objects, reading barcodes, navigating mazes, avoiding obstacles etc. It integrates sensors, computer vision, and SLAM for dynamic environment interaction and operates seamlessly with ROS2 for real-time data processing, navigation and decision-making. The Robot is built creating a progressive learning experience in robotics from emphasising integrated systems to preparing for advanced autonomous applications.
 
 
-
 <img src="https://github.com/user-attachments/assets/0706afc8-d6ec-4b99-bdb9-0384e0d91f5f" alt="U1_1" width="300" height="300">
 
 Robotics is where science, engineering, and technology come together to create machines called robots. These robots can copy or replace human actions. Robots are great at doing simple and repeated tasks faster and more accurately than people, which is why they’re used in industries like manufacturing. With artificial intelligence, robots are becoming smarter and can now handle more complex tasks in different industries.
