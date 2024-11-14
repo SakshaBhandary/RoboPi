@@ -15,4 +15,5 @@ Robotics is where science, engineering, and technology come together to create m
 5. Software: The program or code that tells the robot what actions to perform and when to perform them.
 
 **Robotics Applications**
+
 <img src="https://github.com/user-attachments/assets/352e2825-8b9a-43d5-8f61-14f9aa5e5c42" alt="U1_2" width="300" height="300"> <img src="https://github.com/user-attachments/assets/6d4f13c1-b2e8-4bfb-82a6-761c1bcbf798" alt="U1_2" width="300" height="300">
