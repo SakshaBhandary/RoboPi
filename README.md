@@ -9,16 +9,16 @@ The Robot is a multi-functional and autonomous vehicle capable of following spec
 Robotics is where science, engineering, and technology come together to create machines called robots. These robots can copy or replace human actions. Robots are great at doing simple and repeated tasks faster and more accurately than people, which is why they’re used in industries like manufacturing. With artificial intelligence, robots are becoming smarter and can now handle more complex tasks in different industries.
 
 **Robotics Components:**
-1. Mechanical Construction: This is the part of the robot that helps it complete tasks. For example, robotic arms in factories have joints and motors that allow them to move precisely and assemble parts on a production line.
-2. Electrical Components: Robots rely on electrical systems like batteries, circuits, and motors to power their parts, control movement, and process signals, enabling them to function and respond to their environment.
-3. Software Program: Robots use computer programs to tell them what to do. Without software, a robot wouldn’t know how or when to perform tasks.
+1. **The Robot's Body:** The mechanical construction, composed of joints and motors, is the robot's physical form, enabling it to move and interact with its environment.
+2. **The Robot's Powerhouse:** Electrical components like batteries and circuits supply the energy and control signals that bring the robot to life.
+3. **The Robot's Mind:** The software program is the intelligent core of the robot, dictating its actions and decision-making processes.
 
 **Robot Components:**
-1. Control System: The "brain" of the robot, often a computer or microcontroller, that processes data and sends commands.
-2. Mechanical Structure: The physical parts like wheels, arms, or legs that allow the robot to move and interact with its environment.
-3. Electrical System: Provides power to the robot’s parts, including batteries, circuits, and motors for movement and control.
-4. Sensors: Detect and gather information from the environment, like cameras, touch sensors, or ultrasonic sensors.
-5. Software: The program or code that tells the robot what actions to perform and when to perform them.
+1. The Robot's Mind: The control system processes information and makes decisions.
+2. The Robot's Body: The mechanical structure allows the robot to move and act.
+3. The Robot's Power Source: The electrical system provides the energy for the robot's functions.
+4. The Robot's Senses: The sensors gather information from the environment.
+5. The Robot's Programming: The software defines the robot's capabilities and behaviors.
 
 **Robotics Applications**
 
