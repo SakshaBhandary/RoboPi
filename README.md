@@ -14,11 +14,11 @@ Robotics is where science, engineering, and technology come together to create m
 3. **The Robot's Mind:** The software program is the intelligent core of the robot, dictating its actions and decision-making processes.
 
 **Robot Components:**
-1. The Robot's Mind: The control system processes information and makes decisions.
-2. The Robot's Body: The mechanical structure allows the robot to move and act.
-3. The Robot's Power Source: The electrical system provides the energy for the robot's functions.
-4. The Robot's Senses: The sensors gather information from the environment.
-5. The Robot's Programming: The software defines the robot's capabilities and behaviors.
+1. **The Robot's Mind:** The control system processes information and makes decisions.
+2. **The Robot's Body:** The mechanical structure allows the robot to move and act.
+3. **The Robot's Power Source:** The electrical system provides the energy for the robot's functions.
+4. **The Robot's Senses:** The sensors gather information from the environment.
+5. **The Robot's Programming:** The software defines the robot's capabilities and behaviors.
 
 **Robotics Applications**
 
