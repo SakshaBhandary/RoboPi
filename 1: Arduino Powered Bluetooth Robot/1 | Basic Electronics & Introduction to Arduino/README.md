@@ -1,18 +1,18 @@
-<img src="https://github.com/user-attachments/assets/b5fe8308-3fce-4363-b4b6-5e4a33d29cce" alt="U1_1" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/6a49f263-fbd1-462d-bb33-92ac6ed1425c" alt="U1_1" width="300" height="300">
 
-Robotics is where science, engineering, and technology come together to create machines called robots. These robots can copy or replace human actions. Robots are great at doing simple and repeated tasks faster and more accurately than people, which is why they’re used in industries like manufacturing. With artificial intelligence, robots are becoming smarter and can now handle more complex tasks in different industries.
+Robotics is where science, engineering, and technology come together to create machines called robots. These robots can copy or replace human actions. Robots are great at doing simple and repeated tasks faster and more accurately than people, which is why they’re used in industries like manufacturing. With artificial intelligence, robots are becoming smarter and can now handle more complex tasks in different industries.<br/>
 
 **Robotics Components:**
 1. Mechanical Construction: This is the part of the robot that helps it complete tasks. For example, robotic arms in factories have joints and motors that allow them to move precisely and assemble parts on a production line.
 2. Electrical Components: Robots rely on electrical systems like batteries, circuits, and motors to power their parts, control movement, and process signals, enabling them to function and respond to their environment.
-3. Software Program: Robots use computer programs to tell them what to do. Without software, a robot wouldn’t know how or when to perform tasks.
+3. Software Program: Robots use computer programs to tell them what to do. Without software, a robot wouldn’t know how or when to perform tasks.<br/>
 
 **Robot Components:**
 1. Control System: The "brain" of the robot, often a computer or microcontroller, that processes data and sends commands.
 2. Mechanical Structure: The physical parts like wheels, arms, or legs that allow the robot to move and interact with its environment.
 3. Electrical System: Provides power to the robot’s parts, including batteries, circuits, and motors for movement and control.
 4. Sensors: Detect and gather information from the environment, like cameras, touch sensors, or ultrasonic sensors.
-5. Software: The program or code that tells the robot what actions to perform and when to perform them.
+5. Software: The program or code that tells the robot what actions to perform and when to perform them.<br/>
 
 **Robotics Applications**
 
