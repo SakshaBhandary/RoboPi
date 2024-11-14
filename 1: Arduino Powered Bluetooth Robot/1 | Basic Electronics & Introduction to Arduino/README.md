@@ -1,6 +1,7 @@
 <img src="https://github.com/user-attachments/assets/6a49f263-fbd1-462d-bb33-92ac6ed1425c" alt="U1_1" width="300" height="300">
 
-Robotics is where science, engineering, and technology come together to create machines called robots. These robots can copy or replace human actions. Robots are great at doing simple and repeated tasks faster and more accurately than people, which is why they’re used in industries like manufacturing. With artificial intelligence, robots are becoming smarter and can now handle more complex tasks in different industries.<br/>
+Robotics is where science, engineering, and technology come together to create machines called robots. These robots can copy or replace human actions. Robots are great at doing simple and repeated tasks faster and more accurately than people, which is why they’re used in industries like manufacturing. With artificial intelligence, robots are becoming smarter and can now handle more complex tasks in different industries.
+<br/>
 
 **Robotics Components:**
 1. Mechanical Construction: This is the part of the robot that helps it complete tasks. For example, robotic arms in factories have joints and motors that allow them to move precisely and assemble parts on a production line.
