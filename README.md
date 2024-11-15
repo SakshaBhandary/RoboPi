@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/643c4530-2d9c-40ae-8fdf-f96b307019e2" alt="5th sem" width="300" height="400">
+<img src="https://github.com/user-attachments/assets/643c4530-2d9c-40ae-8fdf-f96b307019e2" alt="5th sem" width="300" height="350">
 
 The Robot is a multi-functional and autonomous vehicle capable of following specified paths, recognizing and tracking objects, reading barcodes, navigating mazes, avoiding obstacles etc. It integrates sensors, computer vision, and SLAM for dynamic environment interaction and operates seamlessly with ROS2 for real-time data processing, navigation and decision-making. The Robot is built creating a progressive learning experience in robotics from emphasising integrated systems to preparing for advanced autonomous applications.
 
