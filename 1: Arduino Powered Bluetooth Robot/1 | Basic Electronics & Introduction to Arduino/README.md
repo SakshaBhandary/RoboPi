@@ -43,7 +43,7 @@ Arduino  is an open-source electronics platform based on easy-to-use hardware an
 https://www.arduino.cc/en/software
 ```
 
-Go to the above link to install the latest version of Arduino IDE on Windows 10/ 11.
+Go to the above link to install the latest version of Arduino IDE.
 
 ## Basic Arduino IDE Structure
 
