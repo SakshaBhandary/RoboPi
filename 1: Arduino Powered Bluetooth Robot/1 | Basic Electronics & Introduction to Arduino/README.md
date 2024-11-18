@@ -16,3 +16,8 @@ A capacitor is a component that stores and releases electrical energy in a circu
 
 An LED (Light Emitting Diode) is a small electronic component that produces light when an electric current passes through it. LEDs are energy-efficient, long-lasting, and commonly used in displays, indicators, and lighting.
 
+**4 | Sensor**
+
+<img src="https://cdn-icons-png.flaticon.com/128/9708/9708985.png" alt="sensor" width="200" height="200">
+
+A sensor is a device that detects changes in its environment, such as temperature, light, or motion, and converts them into signals for a system to process. Sensors are used in many applications, including automation, robotics, and everyday devices like smartphones.
