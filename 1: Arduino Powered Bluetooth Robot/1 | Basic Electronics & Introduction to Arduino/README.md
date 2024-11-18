@@ -31,9 +31,7 @@ A sensor is a device that detects changes in its environment, such as temperatur
 
 # ARDUINO
 
-<img src="https://banner2.cleanpng.com/20180715/egp/aavijns2n.webp" alt="arduino" width="300" height="300"> 
+<img src="https://static-00.iconduck.com/assets.00/apps-arduino-icon-2048x2048-42m5bo99.png" alt="arduino" width="300" height="300"> 
 
-<img src="https://adiy.in/wp-content/uploads/2022/04/A114367_ADIY-UNO-SMD-CH340C_Pin-diagram.png" alt="arduino_board" width="300" height="300">
-
-
+<img src="https://github.com/user-attachments/assets/3735f352-6764-4ae1-bf9e-731b9d6536e8" alt="arduino_board" width="300" height="300">
 
