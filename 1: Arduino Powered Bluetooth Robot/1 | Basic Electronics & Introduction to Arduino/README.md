@@ -37,13 +37,15 @@ Arduino  is an open-source electronics platform based on easy-to-use hardware an
 <img src="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/a6d36/Pinout-UNOrev3_latest.png" alt="arduino_board" width="500" height="500">
 
 ## Arduino IDE Installation
+
+Go to the link below to install the latest version of Arduino IDE.
+
 > Arduino IDE 2.3.3
 
 ``` 
 https://www.arduino.cc/en/software
 ```
 
-Go to the above link to install the latest version of Arduino IDE.
 
 ## Basic Arduino IDE Structure
 
