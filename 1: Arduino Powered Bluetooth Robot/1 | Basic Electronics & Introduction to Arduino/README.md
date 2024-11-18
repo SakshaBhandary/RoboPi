@@ -12,7 +12,7 @@ A capacitor is a component that stores and releases electrical energy in a circu
 
 **3 | LED**
 
-<img src="https://lh6.googleusercontent.com/proxy/KuON26QeOFJjDRf6cbc7dQQgFMirTgIIcWQ9x3RLN_aAXxsRxVZcfT-OzNAET2GF0r295yz3tzG8qfUosK5MeYd65hZd0b1mE6dpz8l3fEoik5YBEGxttnL46tImcajieII" alt="led" width="250" height="200">
+<img src="https://eroletech.com/wp-content/uploads/2016/07/led.jpg" alt="led" width="250" height="200">
 
 An LED (Light Emitting Diode) is a small electronic component that produces light when an electric current passes through it. LEDs are energy-efficient, long-lasting, and commonly used in displays, indicators, and lighting.
 
