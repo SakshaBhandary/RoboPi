@@ -34,7 +34,7 @@ A sensor is a device that detects changes in its environment, such as temperatur
 
 Arduino  is an open-source electronics platform based on easy-to-use hardware and software. It consists of a physical programmable circuit board (microcontroller) and a software IDE (Integrated Development Environment) used to write and upload computer code to the board.
 
-<img src="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/a6d36/Pinout-UNOrev3_latest.png" alt="arduino_board" width="400" height="400">
+<img src="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/a6d36/Pinout-UNOrev3_latest.png" alt="arduino_board" width="500" height="500">
 
 ## Arduino IDE Installation
 > Arduino IDE 2.3.3
@@ -47,4 +47,4 @@ Go to the above link to install the latest version of Arduino IDE.
 
 ## Basic Arduino IDE Structure
 
-<img src="https://i0.wp.com/www.programmingelectronics.com/wp-content/uploads/2019/03/void_setup_loop_2.png" alt="arduino_board" width="500" height="300">
+<img src="https://i0.wp.com/www.programmingelectronics.com/wp-content/uploads/2019/03/void_setup_loop_2.png" alt="arduino_board" width="400" height="250">
