@@ -1,12 +1,12 @@
 **1 | Resistor**
 
-<img src="https://www.allelcoelec.com/upfile/images/2c/20240910144914763.png" alt="resistor" width="200" height="200">
+<img src="https://cdn-icons-png.flaticon.com/128/1482/1482822.png" alt="resistor" width="200" height="200">
 
 A resistor is a passive two-terminal electrical component that limits the flow of electric current in a circuit. It protects components and controls voltage, with its resistance measured in ohms (Ω).
 
 **2 | Capacitor**
 
-<img src="https://www.flyrobo.in/image/cache/catalog/3300uf-25v-electrolytic-capacitor/3300uf-25v-electrolytic-capacitor-1024x1024.jpg" alt="capacitor" width="200" height="200">
+<img src="https://cdn-icons-png.flaticon.com/128/2399/2399563.png" alt="capacitor" width="200" height="200">
 
 A capacitor is a component that stores and releases electrical energy in a circuit. It helps smooth voltage and filter signals, with its storage capacity measured in farads (F).
 
@@ -21,5 +21,3 @@ An LED (Light Emitting Diode) is a small electronic component that produces ligh
 <img src="https://cdn-icons-png.flaticon.com/128/2803/2803636.png" alt="sensor" width="200" height="200">
 
 A sensor is a device that detects changes in its environment, such as temperature, light, or motion, and converts them into signals for a system to process. Sensors are used in many applications, including automation, robotics, and everyday devices like smartphones.
-
-https://leds4life.co.za/wp-content/uploads/5mm-LED-700x700.jpg
