@@ -6,7 +6,7 @@ A resistor is a passive two-terminal electrical component that limits the flow o
 
 **2 | Capacitor**
 
-<img src="https://cdn-icons-png.flaticon.com/128/2399/2399563.png" alt="capacitor" width="200" height="200">
+<img src="https://cdn-icons-png.flaticon.com/128/2479/2479538.png" alt="capacitor" width="200" height="200">
 
 A capacitor is a component that stores and releases electrical energy in a circuit. It helps smooth voltage and filter signals, with its storage capacity measured in farads (F).
 
