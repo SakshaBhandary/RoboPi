@@ -12,7 +12,7 @@ A capacitor is a component that stores and releases electrical energy in a circu
 
 **3 | LED**
 
-<img src="https://leds4life.co.za/wp-content/uploads/5mm-LED-700x700.jpg" alt="led" width="200" height="200">
+<img src="https://cdn-icons-png.flaticon.com/128/2338/2338767.png" alt="led" width="200" height="200">
 
 An LED (Light Emitting Diode) is a small electronic component that produces light when an electric current passes through it. LEDs are energy-efficient, long-lasting, and commonly used in displays, indicators, and lighting.
 
@@ -21,3 +21,5 @@ An LED (Light Emitting Diode) is a small electronic component that produces ligh
 <img src="https://cdn-icons-png.flaticon.com/128/2803/2803636.png" alt="sensor" width="200" height="200">
 
 A sensor is a device that detects changes in its environment, such as temperature, light, or motion, and converts them into signals for a system to process. Sensors are used in many applications, including automation, robotics, and everyday devices like smartphones.
+
+https://leds4life.co.za/wp-content/uploads/5mm-LED-700x700.jpg
