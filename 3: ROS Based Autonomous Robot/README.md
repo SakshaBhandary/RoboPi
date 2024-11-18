@@ -1,3 +1,5 @@
+# ROS Based Autonomous Robot
+
 <img src="https://github.com/user-attachments/assets/c3cf0c69-8afc-49c8-8d81-a7693e6c07e3" alt="Alt Text" width="300" height="400">
 
 A robot designed to autonomously follow a designated path and detect objects, leveraging ROS for robust sensor integration and navigation. The robot is ideal for mapping and navigation projects in controlled environments.
