@@ -1,3 +1,5 @@
+**BASIC ELECTRONICS**
+
 **1 | Resistor**
 
 <img src="https://cdn-icons-png.flaticon.com/128/1482/1482822.png" alt="resistor" width="200" height="200">
