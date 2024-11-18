@@ -2,7 +2,7 @@
 
 ## **1 | Resistor**
 
-<img src="https://cdn-icons-png.flaticon.com/128/1482/1482822.png" alt="resistor" width="200" height="200">
+<img src="https://cdn-icons-png.flaticon.com/128/1482/1482822.png" alt="resistor" width="100" height="100">
 
 A resistor is a passive two-terminal electrical component that limits the flow of electric current in a circuit. It protects components and controls voltage, with its resistance measured in ohms (Ω).
 
