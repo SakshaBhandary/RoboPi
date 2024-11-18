@@ -32,4 +32,13 @@ A sensor is a device that detects changes in its environment, such as temperatur
 # ARDUINO   
 <img src="https://static-00.iconduck.com/assets.00/apps-arduino-icon-2048x2048-42m5bo99.png" alt="arduino" width="100" height="100"> 
 
+Arduino  is an open-source electronics platform based on easy-to-use hardware and software. It consists of a physical programmable circuit board (microcontroller) and a software IDE (Integrated Development Environment) used to write and upload computer code to the board.
+
 <img src="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/a6d36/Pinout-UNOrev3_latest.png" alt="arduino_board" width="500" height="500">
+
+# Arduino IDE Installation
+> Arduino IDE 2.3.3
+`https://www.arduino.cc/en/software`
+Click on the link to install the latest version of Arduino IDE on Windows 10/ 11.
+
+ 
