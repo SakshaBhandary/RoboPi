@@ -1,3 +1,5 @@
+# Smart Robot
+
 <img src="https://github.com/user-attachments/assets/bbe7f54e-4c7f-41d1-8140-bf574d52af85" alt="6th sem" width="300" height="350">
 
 An advanced robot integrated with ROS2 and Nav2 for autonomous navigation in dynamic environments. It can perform SLAM and autonomously navigate through pre-mapped areas while avoiding obstacles in real-time.
