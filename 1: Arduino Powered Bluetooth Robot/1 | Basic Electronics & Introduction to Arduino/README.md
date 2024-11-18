@@ -27,5 +27,5 @@ A sensor is a device that detects changes in its environment, such as temperatur
 
 # **SYSTEM STRUCTURE**
 
-<img src="https://github.com/user-attachments/assets/69937e0b-5e6e-4cbc-93e7-9c8daea6348b" alt="system" width="600" height="300">
+<img src="https://github.com/user-attachments/assets/69937e0b-5e6e-4cbc-93e7-9c8daea6348b" alt="system" width="600" height="250">
 
