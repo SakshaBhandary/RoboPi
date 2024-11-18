@@ -45,4 +45,6 @@ https://www.arduino.cc/en/software
 
 Go to the above link to install the latest version of Arduino IDE on Windows 10/ 11.
 
- 
+## Basic Arduino Structure
+
+<img src="https://i0.wp.com/www.programmingelectronics.com/wp-content/uploads/2019/03/void_setup_loop_2.png" alt="arduino_board" width="300" height="300">
