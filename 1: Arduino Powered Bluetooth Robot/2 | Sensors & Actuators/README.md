@@ -33,3 +33,10 @@ A DHT sensor is a combined temperature and humidity sensor that provides calibra
 <img src="https://t3.ftcdn.net/jpg/04/91/09/84/360_F_491098431_PJ1Ey8DgShjxEdJNDGTPFb26WbdVYHb6.jpg" alt="u_sensor" width="300" height="300">
 
 Ultrasonic sensors measure distance by emitting high-frequency sound waves that bounce off an object and return to the sensor. The time taken for the sound wave to return is used to calculate the distance.
+
+
+# ACTUATOR
+
+<img src="https://cdn-icons-png.flaticon.com/128/17067/17067295.png" alt="sensor_work" width="200" height="200">
+
+An actuator is a machine that moves or controls components in a system by converting energy into physical motion. This energy can come from electricity, water pressure, or air pressure.
