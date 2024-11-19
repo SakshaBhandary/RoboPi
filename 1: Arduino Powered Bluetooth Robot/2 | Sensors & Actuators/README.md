@@ -30,3 +30,4 @@ A DHT sensor is a combined temperature and humidity sensor that provides calibra
 
 <img src="https://t3.ftcdn.net/jpg/04/91/09/84/360_F_491098431_PJ1Ey8DgShjxEdJNDGTPFb26WbdVYHb6.jpg" alt="u_sensor" width="300" height="300">
 
+Ultrasonic sensors measure distance by emitting high-frequency sound waves that bounce off an object and return to the sensor. The time taken for the sound wave to return is used to calculate the distance.
