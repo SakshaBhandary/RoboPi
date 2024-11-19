@@ -40,3 +40,12 @@ Ultrasonic sensors measure distance by emitting high-frequency sound waves that 
 <img src="https://cdn-icons-png.flaticon.com/128/17067/17067295.png" alt="sensor_work" width="180" height="180">
 
 An actuator is a machine that moves or controls components in a system by converting energy into physical motion. This energy can come from electricity, water pressure, or air pressure.
+
+# ACTUATOR TYPES
+
+## Servo Motor
+
+<img src="https://d3kia4uusq9en9.cloudfront.net/img/V-PS1309_x.jpg" alt="sensor_work" width="300" height="300">
+
+A servo motor is a rotary actuator that precisely controls the position, speed, and acceleration of a mechanical component. It uses a feedback system to adjust its movement based on input signals, making it ideal for applications requiring accurate motion control, such as robotics, automation, and control systems.
+
