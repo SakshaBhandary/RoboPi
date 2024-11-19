@@ -1,8 +1,9 @@
+# THE ROBOT
 <img src="https://github.com/user-attachments/assets/643c4530-2d9c-40ae-8fdf-f96b307019e2" alt="5th sem" width="300" height="350">
 
 The Robot is a multi-functional and autonomous vehicle capable of following specified paths, recognizing and tracking objects, reading barcodes, navigating mazes, avoiding obstacles etc. It integrates sensors, computer vision, and SLAM for dynamic environment interaction and operates seamlessly with ROS2 for real-time data processing, navigation and decision-making. The Robot is built creating a progressive learning experience in robotics from emphasising integrated systems to preparing for advanced autonomous applications.
 
-
+# ROBOTICS
 <img src="https://github.com/user-attachments/assets/0706afc8-d6ec-4b99-bdb9-0384e0d91f5f" alt="1" width="300" height="300">
 
 Robotics is the exciting intersection of science, engineering, and technology that brings machines to life. Robotics creates robots that mimic human actions, but better and faster. They're used in factories and other places for efficiency. With AI, robots are getting smarter and more capable.
