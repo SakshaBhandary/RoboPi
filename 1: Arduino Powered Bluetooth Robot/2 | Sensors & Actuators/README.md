@@ -37,6 +37,6 @@ Ultrasonic sensors measure distance by emitting high-frequency sound waves that 
 
 # ACTUATOR
 
-<img src="https://cdn-icons-png.flaticon.com/128/17067/17067295.png" alt="sensor_work" width="200" height="200">
+<img src="https://cdn-icons-png.flaticon.com/128/17067/17067295.png" alt="sensor_work" width="180" height="180">
 
 An actuator is a machine that moves or controls components in a system by converting energy into physical motion. This energy can come from electricity, water pressure, or air pressure.
