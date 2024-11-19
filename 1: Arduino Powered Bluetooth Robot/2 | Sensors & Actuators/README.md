@@ -25,3 +25,8 @@ An LDR sensor detects light intensity using a light-dependent resistor, which ch
 <img src="https://robu.in/wp-content/uploads/2017/06/AM2302-DHT22-Digital-Temperature-and-Humidity-Sensor-Module-2.jpg" alt="DHT_sensor" width="300" height="300">
 
 A DHT sensor is a combined temperature and humidity sensor that provides calibrated digital output. The DHT family includes popular sensors like DHT11 and DHT22, which are widely used in projects for measuring environmental conditions.
+
+## ULTRASONIC SENSOR (HC-SR04)
+
+<img src="https://t3.ftcdn.net/jpg/04/91/09/84/360_F_491098431_PJ1Ey8DgShjxEdJNDGTPFb26WbdVYHb6.jpg" alt="u_sensor" width="300" height="300">
+
