@@ -8,6 +8,8 @@ A sensor is a device which detects or measures a physical property and records, 
 
 <img src="https://github.com/user-attachments/assets/822e218a-aadd-4b17-af14-d595856d9917" alt="sensor_work" width="400" height="300">
 
+# SENSOR TYPES
+
 ## IR Sensor
 
 <img src="https://github.com/user-attachments/assets/53681241-dc04-43be-a287-cb94e7af477f" alt="ir_sensor" width="400" height="200">
