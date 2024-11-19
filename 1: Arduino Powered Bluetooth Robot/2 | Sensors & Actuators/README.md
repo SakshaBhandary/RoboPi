@@ -19,3 +19,9 @@ An IR (Infrared) sensor is a device that detects infrared radiation emitted by o
 <img src="https://miragegrove.com/cdn/shop/files/DSC_0177_5a6c750a-3de9-4689-a76b-bfdf30a21c01_1024x1024.jpg?v=1714518760" alt="ldr_sensor" width="300" height="300">
 
 An LDR sensor detects light intensity using a light-dependent resistor, which changes resistance based on the light level. It's used in applications like automatic lights and brightness sensors.
+
+## TEMPERATURE & HUMIDITY SENSOR (DHT22)
+
+<img src="https://robu.in/wp-content/uploads/2017/06/AM2302-DHT22-Digital-Temperature-and-Humidity-Sensor-Module-2.jpg" alt="DHT_sensor" width="300" height="300">
+
+A DHT sensor is a combined temperature and humidity sensor that provides calibrated digital output. The DHT family includes popular sensors like DHT11 and DHT22, which are widely used in projects for measuring environmental conditions.
