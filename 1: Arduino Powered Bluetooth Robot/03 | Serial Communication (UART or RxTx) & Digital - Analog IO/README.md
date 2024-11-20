@@ -18,16 +18,11 @@ Communication protocols define the rules and standards for exchanging data betwe
 
 ## UART (Universal Asynchronous Receiver Transmitter)
 
-<img src="https://dwma4bz18k1bd.cloudfront.net/tutorials/uart-duplex-communication-connections.jpg" alt="uart" width="500" height="200">
+<img src="https://dwma4bz18k1bd.cloudfront.net/tutorials/uart-duplex-communication-connections.jpg" alt="uart" width="500" height="300">
 
 - Enables serial communication between devices by converting parallel data to serial and vice versa.
-
 - Two-Wire Communication: Uses Tx (Transmit) and Rx (Receive) lines for data transmission.
-
 - Packet Structure: Includes a start bit, data frame, parity bit (for error checking), and stop bits.
-
 - Asynchronous: No clock signal; relies on both devices sharing the same baud rate for timing.
-  
 - Bidirectional: Supports both half-duplex (one way at a time) and full-duplex (two-way) communication.
-
 - Configurable: Developers can adjust parameters like baud rate and data format.
