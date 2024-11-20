@@ -18,7 +18,7 @@ Communication protocols define the rules and standards for exchanging data betwe
 
 ## UART (Universal Asynchronous Receiver Transmitter)
 
-<img src="https://github.com/user-attachments/assets/0ceed3cf-5d74-46fc-9d07-24fbf4469248" alt="uart" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/0ceed3cf-5d74-46fc-9d07-24fbf4469248" alt="uart" width="400" height="300">
 
 • Enables serial communication between devices by converting parallel data to serial and vice versa.
 • Two-Wire Communication: Uses Tx (Transmit) and Rx (Receive) lines for data transmission.
