@@ -15,3 +15,14 @@ Parallel Communications is like a multi lane expressway, where the 1s and 0s are
 <img src="https://github.com/user-attachments/assets/0142424a-09f3-41c3-b6b7-956ac5224e33" alt="Comm_Pro" width="150" height="150">
 
 Communication protocols define the rules and standards for exchanging data between devices in embedded systems. Serial communication allows for transmitting data over a communication channel, where data is sent one bit at a time. Ex: UART, SPI, and I2C, each designed to meet different needs in terms of speed, complexity, and connectivity.
+
+## UART (Universal Asynchronous Receiver Transmitter)
+
+<img src="https://github.com/user-attachments/assets/0ceed3cf-5d74-46fc-9d07-24fbf4469248" alt="uart" width="150" height="150">
+
+• Enables serial communication between devices by converting parallel data to serial and vice versa.
+• Two-Wire Communication: Uses Tx (Transmit) and Rx (Receive) lines for data transmission.
+• Packet Structure: Includes a start bit, data frame, parity bit (for error checking), and stop bits.
+• Asynchronous: No clock signal; relies on both devices sharing the same baud rate for timing.
+• Bidirectional: Supports both half-duplex (one way at a time) and full-duplex (two-way) communication.
+• Configurable: Developers can adjust parameters like baud rate and data format.
