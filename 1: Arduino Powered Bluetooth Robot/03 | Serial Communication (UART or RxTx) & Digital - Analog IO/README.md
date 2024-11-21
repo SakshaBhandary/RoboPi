@@ -97,8 +97,8 @@ Communication protocols define the rules and standards for exchanging data betwe
 
 PWM (Pulse Width Modulation) is a technique used to control the amount of power sent to an electrical device by rapidly switching it on and off.
 
-### Real Time Examples
-1. **Dimming LED Lights:** Used to control the brightness of LED lights. By rapidly turning the light on and off, and adjusting the amount of time the light stays on, the brightness can be smoothly controlled. <br/>
-2. **Motor Speed Control:** In devices like electric fans or remote-controlled cars, PWM is used to control the speed of DC motors. Adjusting the on/off ratio allows the motor to run slower or faster based on the needs of the device. <br/>
-3. **Servo Motors (in robotics):** PWM signals control the position of servo motors in robots and RC toys. By adjusting the pulse width, the motor moves to a specific angle. <br/>
+### Examples
+1. **Dimming LED Lights <img src="https://cdn-icons-png.flaticon.com/128/436/436303.png" alt="led" width="20" height="20"> :** Used to control the brightness of LED lights. By rapidly turning the light on and off, and adjusting the amount of time the light stays on, the brightness can be smoothly controlled. <br/>
+2. **Motor Speed Control <img src="https://cdn-icons-png.flaticon.com/128/13968/13968163.png" alt="motor" width="20" height="20"> :** In devices like electric fans or remote-controlled cars, PWM is used to control the speed of DC motors. Adjusting the on/off ratio allows the motor to run slower or faster based on the needs of the device. <br/>
+3. **Servo Motors (in Robotics) <img src="https://cdn-icons-png.flaticon.com/128/6275/6275902.png" alt="motor" width="20" height="20"> :** PWM signals control the position of servo motors in robots and RC toys. By adjusting the pulse width, the motor moves to a specific angle. <br/>
 
