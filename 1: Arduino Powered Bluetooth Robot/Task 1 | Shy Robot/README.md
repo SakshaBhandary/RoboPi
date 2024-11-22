@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-vector/friendly-robot-floating-space_1308-161930.jpg?ga=GA1.1.1624678325.1729576597&semt=ais_hybrid" alt="task_1" width="400" height="400">
+<img src="https://img.freepik.com/free-vector/friendly-robot-floating-space_1308-161930.jpg?ga=GA1.1.1624678325.1729576597&semt=ais_hybrid" alt="task_1" width="350" height="350">
 
 # Overview
 
