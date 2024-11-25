@@ -37,7 +37,7 @@ Ultrasonic sensors measure distance by emitting high-frequency sound waves that 
 
 # ACTUATOR
 
-<img src="https://cdn-icons-png.flaticon.com/128/17067/17067295.png" alt="sensor_work" width="180" height="180">
+<img src="https://cdn-icons-png.flaticon.com/128/17067/17067295.png" alt="actuator" width="180" height="180">
 
 An actuator is a machine that moves or controls components in a system by converting energy into physical motion. This energy can come from electricity, water pressure, or air pressure.
 
@@ -45,7 +45,24 @@ An actuator is a machine that moves or controls components in a system by conver
 
 ## Servo Motor
 
-<img src="https://d3kia4uusq9en9.cloudfront.net/img/V-PS1309_x.jpg" alt="sensor_work" width="300" height="300">
+<img src="https://d3kia4uusq9en9.cloudfront.net/img/V-PS1309_x.jpg" alt="servo" width="300" height="300">
 
 A servo motor is a rotary actuator that precisely controls the position, speed, and acceleration of a mechanical component. It uses a feedback system to adjust its movement based on input signals, making it ideal for applications requiring accurate motion control, such as robotics, automation, and control systems.
 
+## BO DC Motor
+
+<img src="https://github.com/user-attachments/assets/ed787f83-1ffa-47d5-9809-9842f1d98f13" alt="dc-bo" width="300" height="300">
+
+Motor BO or BO Gear Motors, these DC motors are designed for battery-operated applications. Offering excellent torque and RPM performance, even at lower voltages.
+
+## Johnson DC motor
+
+<img src="https://rukminim2.flixcart.com/image/850/1000/kqy3rm80/electronic-hobby-kit/c/h/x/dc-gear-motor-12v-dc-gear-motor-12v-200-1000-rpm-johnson-geared-original-imag4ujbxxhzeac7.jpeg?q=90&crop=false" alt="dc-johnson" width="350" height="270">
+
+The Johnson Electric DC motor series is the industry benchmark for micro motor driven actuation. It is a direct current (DC) rotary electrical motor that is known for its reliability and performance. 
+
+## Stepper Motor
+
+<img src="https://leadshineindia.com/cdn/shop/products/stepper-motor-cm-series-86cm45-0-i14-standard-leadshine-india-858213_1200x.jpg?v=1701986181" alt="dc-bo" width="350" height="250">
+
+Stepper motors are so named because each pulse of electricity turns the motor one step. Stepper motors are controlled by a driver, which sends the pulses into the motor causing it to turn. The number of pulses the motor turns is equal to the number of pulses fed into the driver.
