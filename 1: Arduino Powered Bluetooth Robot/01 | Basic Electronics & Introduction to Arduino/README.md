@@ -22,7 +22,7 @@ An LED (Light Emitting Diode) is a small electronic component that produces ligh
 
 <img src="https://cdn-icons-png.flaticon.com/128/2803/2803636.png" alt="sensor" width="100" height="100">
 
-A sensor is a device that detects changes in its environment, such as temperature, light, or motion, and converts them into signals for a system to process. Sensors are used in many applications, including automation, robotics, and everyday devices like smartphones.
+A sensor is a device that detects changes in its environment, such as temperature, light, or motion, and converts them into signals for a system to process. Sensors are used in many applications, including automation, robotics and everyday devices like smartphones.
 
 
 # **SYSTEM STRUCTURE**
