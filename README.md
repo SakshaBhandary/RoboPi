@@ -1,6 +1,7 @@
 <img src="https://github.com/user-attachments/assets/1bf850c3-c3b2-4c3c-aa50-289c7696aa13" alt="profile" width="350" height="350">
+<img src="https://github.com/user-attachments/assets/db4b1132-f6e0-490b-9e94-f3e318b98aa1" width="480" height="350">
 
-ot is a multi-functional and autonomous vehicle capable of following specified paths, recognizing and tracking objects, reading barcodes, navigating mazes, avoiding obstacles etc. It integrates sensors, computer vision, and SLAM for dynamic environment interaction and operates seamlessly with ROS2 for real-time data processing, navigation and decision-making. The Robot is built creating a progressive learning experience in robotics from emphasising integrated systems to preparing for advanced autonomous applications.
+The robot is a multi-functional and autonomous vehicle capable of following specified paths, recognizing and tracking objects, reading barcodes, navigating mazes, avoiding obstacles etc. It integrates sensors, computer vision, and SLAM for dynamic environment interaction and operates seamlessly with ROS2 for real-time data processing, navigation and decision-making. The Robot is built creating a progressive learning experience in robotics from emphasising integrated systems to preparing for advanced autonomous applications.
 
 # ROBOTICS
 <img src="https://github.com/user-attachments/assets/0706afc8-d6ec-4b99-bdb9-0384e0d91f5f" alt="1" width="300" height="300">
