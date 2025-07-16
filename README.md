@@ -1,4 +1,4 @@
-# ROBOPI - Multifunctional Autonomous Navigation Robot
+# ROBOPI - Multifunctional Autonomous Robot
 
 <img src="https://github.com/user-attachments/assets/1bf850c3-c3b2-4c3c-aa50-289c7696aa13" alt="profile" width="360" height="350">
 <img src="https://github.com/user-attachments/assets/db4b1132-f6e0-490b-9e94-f3e318b98aa1" width="480" height="350">
