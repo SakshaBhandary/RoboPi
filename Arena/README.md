@@ -1,1 +1,1 @@
-This folder contains the details of the Arena.
+This folder contains the details of the Robot Arena.
