@@ -10,3 +10,5 @@ An advanced robot integrated with ROS2 and Nav2 for autonomous navigation in dyn
 3. **SLAM-Enabled Mapping:** Builds and updates maps of its surroundings autonomously.
 4. **Autonomous Navigation:** Uses Nav2 for end-to-end autonomous movement in complex environments.
 5. **Real-Time Obstacle Avoidance:** Responds dynamically to obstacles using advanced ROS2 capabilities.
+
+> Credits: @https://github.com/dhanushshettigar
