@@ -10,3 +10,5 @@ A robot designed to autonomously follow a designated path and detect objects, le
 3. **SLAM for Mapping:** Maps the environment as it navigates, avoiding obstacles.
 4. **Obstacle Detection and Response:** Detects objects in its path and operates accordingly.
 5. **User-Defined Path Planning:** Capable of adjusting path based on user inputs in ROS.
+
+> Credits: @https://github.com/dhanushshettigar
